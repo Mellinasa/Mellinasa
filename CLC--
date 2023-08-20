@@ -1,0 +1,52 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    while (true) {
+        cout << "Select operation:" << endl;
+        cout << "1. Add" << endl;
+        cout << "2. Subtract" << endl;
+        cout << "3. Multiply" << endl;
+        cout << "4. Divide" << endl;
+        cout << "5. Exit" << endl;
+
+        int choice;
+        cin >> choice;
+
+        if (choice == 5) {
+            cout << "Calculator exiting..." << endl;
+            break;
+        }
+
+        cout << "Enter first number: ";
+        double num1;
+        cin >> num1;
+
+        cout << "Enter second number: ";
+        double num2;
+        cin >> num2;
+
+        switch (choice) {
+            case 1:
+                cout << "Result: " << (num1 + num2) << endl;
+                break;
+            case 2:
+                cout << "Result: " << (num1 - num2) << endl;
+                break;
+            case 3:
+                cout << "Result: " << (num1 * num2) << endl;
+                break;
+            case 4:
+                if (num2 != 0) {
+                    cout << "Result: " << (num1 / num2) << endl;
+                } else {
+                    cout << "Cannot divide by zero" << endl;
+                }
+                break;
+            default:
+                cout << "Invalid input" << endl;
+                break;
+        }
+    }
+    return 0;
+}
