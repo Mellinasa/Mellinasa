@@ -46,6 +46,11 @@ int main() {
             default:
                 cout << "Invalid input" << endl;
                 break;
+                break;
+            default:
+                cout << "Invalid input" << endl;
+                break;
+        }
         }
     }
     return 0;
