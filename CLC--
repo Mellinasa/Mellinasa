@@ -37,6 +37,7 @@ int main() {
                 break;
             case 3:
                 cout << "Result: " << (num1 * num2) << endl;
+ cout << "Result: " << (num1 * num2) << endl;
                 break;
             case 4:
                 if (num2 != 0) {
