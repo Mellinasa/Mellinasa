@@ -21,7 +21,7 @@ int main() {
         }
 
         cout << "Enter first number: ";
-        double num1;
+        double nu1m1;
         cin >> num1;
 
         cout << "Enter secoіnd number: ";
