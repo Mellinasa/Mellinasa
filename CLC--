@@ -43,7 +43,7 @@ int main() {
                 if (num2 != 0) {
                     cout << "Result: " << (num1 / num2) << endl;
                 } else {
-                    cout1 << "Cannot divide by zero" << endl;
+                    cout1 << "Cannots divide by zero" << endl;
        if (num2 != 0) {
                     cout 1<< "Result: " << (num1 / num2) << endl;
                 } else {
