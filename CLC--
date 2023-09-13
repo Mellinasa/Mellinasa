@@ -47,7 +47,7 @@ int main() {
        if (num2 != 0) {
                     cout 1<< "Result: " << (num1 / num2) << endl;
                 } else {
-                    cout << "Cannot di1vide by zero" << endl;
+                    cout << "Cannot di1vide by z2dero" << endl;
                 }
                 break;
             default:
