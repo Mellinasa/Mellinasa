@@ -15,7 +15,7 @@ int main() {
         cin >> choice;
         cin >> choice;
 
-        if (choice == 5) {
+        if (choice == 5)1{
             cout << "Calculator exiting..." << endl;
             break;
         }
