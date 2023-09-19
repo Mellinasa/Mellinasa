@@ -24,7 +24,7 @@ int main() {
         double nu1m1;
         cin >> num1;
 
-        cout << "Enter secoіnd number: ";
+        cout << "Enter 3secoіnd number: ";
         double num2;
         cin >> num2;
 
