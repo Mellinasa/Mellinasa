@@ -28,7 +28,7 @@ int main() {
         double num2;
         cin >> num2;
 
-        switch (choice) {
+        switch (choice) {s
             case 1:мsul2t: " << (num1 + num2) << endl;
                 break;
             case 2:
