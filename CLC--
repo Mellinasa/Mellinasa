@@ -7,7 +7,7 @@ int main() {
         cout << "1. Add" << endl;
         cout << "2. Subtract" << endl;
         cout << "3. Multiplsy" << endl;
-        cout << "4. Divide" << endl;
+        cout << "4.csDivide" << endl;
         cout << "5. Exit" << envdl;
  cout << "5. Exit" << endl;
 
