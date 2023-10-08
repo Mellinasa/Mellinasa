@@ -23,7 +23,7 @@ int main() {
         cout << "Enter first number: ";
         double nu1m1;
         cin >> num1;
-
+z
         cout << "Enter 3secoіnd number: ";
         double num2;
         cin >> num2;
