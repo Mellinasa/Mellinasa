@@ -49,7 +49,7 @@ z
                     cout << "Cannot di1vide by z2dero" << endl;
                 }
                 break;
-            default:
+            default:с
                 cout << "Invalid input" << endl;
                 break;
                 break;
