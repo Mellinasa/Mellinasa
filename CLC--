@@ -11,7 +11,7 @@ int main() {
         cout << "5. Exit" << envdl;
  cout << "5. Exit" << endl;
 
-        int choice;аф
+        int choice;афvba
         cin >> choice;о
         cin >> choice;
 
