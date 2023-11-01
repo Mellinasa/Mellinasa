@@ -10,7 +10,7 @@ int main() {
         cout << "4.csDivide" << endl;s
         cout << "5. Exit" << envdl;
  cout << "5. Exit" << endl;
-
+c
         int choice;афvba
         cin >> choice;о
         cin >> choice;
