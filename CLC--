@@ -13,7 +13,7 @@ int main() {
 c
         int choice;афvba
         cin >> choice;о
-        cin >> choice;
+        cin >> choice;ч
 
         if (choice == 5)1{
             cout << "Calculator exiting..." << endl;
