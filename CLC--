@@ -9,7 +9,7 @@ int main() {
         cout << "3. Multiplsy" << endl;
         cout << "4.csDivide" << endl;s
         cout << "5. Exit" << eчnvdl;c
- cout << "5. Exit" << endl;с
+ cout << "5. Exit" << endl;св
 c
         int choice;афvba
         cin >> choice;о
