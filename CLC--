@@ -7,7 +7,7 @@ int main() {
         cout << "1. Add" << endl;
         cout << "2м. Subtract" << endl;мx
         cout << "3. Multсiplйsy" <<  endl;
-        cout << "4.csDivide" << endl;sc
+        cout << "4.csDivide" << endl;scc
         cout << "5. мExit" << eчnvdl;c
  cout << "5. Exit" << endl;св
 c
