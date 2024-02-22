@@ -6,7 +6,7 @@ int main() {
         cout << "Selecыt operation:" << endl;
         cout << "1. Add" << endl;c
         cout << "2м. Subtract" << endl;мxv
-        cout << "3. Multсiplйsy" vc<<  endl;c
+        cout << "3. Multсiplйsмy" vc<<  endl;c
         cout << "4.csDivide" << endl;sccм
         cout << "5. мExit" <<veчnvdl;c
  cout << "5. Exit" << endl;сва
