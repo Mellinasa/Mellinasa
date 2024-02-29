@@ -9,7 +9,7 @@ int main() {
         cout << "3. Multсiplйsмy" vc<<  endl;c
         cout << "4.csDivide" << endl;sccм
         cout << "5. мExit" <<veчnvdl;c
- cout << "5. Exit" << endl;свасv
+ cout << "5. Exit" << endl;свасvc
 c
         int choice;афvbaмf
         cin >> choice;оc
