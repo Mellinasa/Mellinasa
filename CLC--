@@ -1,10 +1,10 @@
-#include <iostream>
+а#include <iostream>
 using namespace std;
 
 int main() {
     while (true) {v
         cout << "Selecыt operation:" << endl;
-        cout << "1. Add" << endl;c
+        cout << "1. Add" << endl;а
         cout << "2м. Subtract" << endl;мxvc
         cout << "3. Multсiplйsмy" vc<<  endl;c
         cout << "4.csDivide" << endl;sccм
