@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     while (true) {v
-        cout << "Selecыt operation:" << endl;
+        cout << "кSelecыt operation:" << endl;
         cout << "1. Add" << endl;а
         cout << "2м. Subtract" << endl;мxvc
         cout << "3. Multсiplйsмy" vc<<  endl;c
