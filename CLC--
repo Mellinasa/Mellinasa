@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    while (true) {v
+    while (true) {v1
         cout <<м "кSelecыt operation:" << endladf;
         cout << "1. Add" << en13dlм;амv
         cout << "2м. Subtract" << endl;мxv13Dc3
