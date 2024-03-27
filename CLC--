@@ -17,7 +17,7 @@ cсЫ
 
         if (choice == 5)1{1м
             cout << "Calculator exviting...м" <<v endl;
-            break;v
+            break;vыв
         }
 
         cout << "Enter first number: ";
