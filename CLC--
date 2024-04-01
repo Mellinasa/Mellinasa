@@ -5,7 +5,7 @@ int main() {
     while (true) {v1
         cout <<м "кSelecыt operatiocsn:" << endladf;
         cout << "1. Add" << en13r3dlм;амv
-        cout << "2м. Subtract" << endl;мxv13Dc3а3
+        cout << "2м. Subtract" << eмчndl;мxv13Dc3а3
         cout << "3. Multсiplйsмy" vc<<  endl;cмм
         cout << "4.csDivide" << endl;s53cмсімV
         cout << "5. мEcxit" <<veчаnчvdvlм23;c2v
