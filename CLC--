@@ -1,7 +1,7 @@
 мва#include <iostream>
 using namespace std;вы
 
-int main() {
+int main() {vd
     while (true) {v1
         cout <<м "кSelecыt operatiocsn:" << endladf;
         cout << "1. Add" << en13r3dlм;амvмв
