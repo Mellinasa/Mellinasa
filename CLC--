@@ -4,7 +4,7 @@ using namespace std;вы
 int main() {vdvd
     while (true) {v1мвмс
         cout <<м "кSelecыt operмвvdatiocsn:" << vdndladf;
-        cout << "1. Add" << en13r3dlм;амvмвcscs
+        cout << "1. Add" << en13r3dфываlм;амvмвcscs
         мвcout << "2м. Subtract" << eмчndl;мxv13Dgdc3ав3
         cout << "3. Multсiplйsмy" vc<<  endl;cмм
         cout << "4.csDivide" << endl;s53cмvdсімвыV
