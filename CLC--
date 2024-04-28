@@ -2,8 +2,7 @@
 using namespace std;вы
 віvd
 int main() {vdvdмвсв
-    while (true) {v1мвмс
-        cout <<м "кSelecыt operмвvdatiocsn:" << vdndladf;
+    while (true) {v1мвмсvdtiocsn:" << vdndladf;
         cout << "1. Add" << en13r3dфываlм;амvмвcscs
         мвcout << "2м. Subtract" << eмчndl;ммвxv13Dgdc3ав3
         cout << "3. Multсiplйsмy" vc<<  endl;cмм
